@@ -1,0 +1,15 @@
+retriv==0.2.3
+dppy==0.3.2
+accelerate==0.34.2
+matplotlib==3.8.4
+numpy==1.26.4
+openai==1.37.2
+pandas==2.2.1
+sacrebleu==2.4.1
+spacy==3.7.4
+torch==2.2.2
+tqdm==4.66.2
+transformers==4.38.2
+wonderwords==2.2.0
+unbabel-comet==2.2.2
+sentence-transformers==3.0.0
