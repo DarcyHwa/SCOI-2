@@ -1,5 +1,7 @@
 # SCOI: Syntax-augmented Coverage-based In-context Example Selection for Machine Translation
 
+Source code of our EMNLP 2024 (Main) paper **SCOI: Syntax-augmented Coverage-based In-context Example Selection for Machine Translation**.
+
 ## Table of Contents
 1. [Quick Start](#quick-start)
 2. [SCOI Method](#scoi-method)
